@@ -25,13 +25,13 @@ I am a passionate software developer dedicated to creating innovative and practi
 
 Here are some of the projects I've worked on:
 
-- [**Vegetarian-Web**]([https://github.com/yourusername/project1](https://github.com/bambovijs/Vegetarian-Web)): HTML + CSS + JS - Vegetarian-Web
-- [**E-gramatvedība**]([https://github.com/yourusername/project2](https://github.com/bambovijs/e-gramatvediba)): Simple HTML + CSS for WordPress website
-- [**FlightPlanner**]([https://github.com/yourusername/project3](https://github.com/bambovijs/flight-planner)): JAVA
+- [**Vegetarian-Web**]((https://github.com/bambovijs/Vegetarian-Web)): HTML + CSS + JS - Vegetarian-Web
+- [**E-gramatvedība**]((https://github.com/bambovijs/e-gramatvediba)): Simple HTML + CSS for WordPress website
+- [**FlightPlanner**]((https://github.com/bambovijs/flight-planner)): JAVA
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambovijs&layout=compact)
 
 ## 📫 Connect with Me
 
