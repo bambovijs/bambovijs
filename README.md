@@ -39,5 +39,7 @@ Here are some of the projects I've worked on:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bambovijs)
 
 "_Programs must be written for people to read, and only incidentally for machines to execute._" – Harold Abelson
+
+
 ![](https://komarev.com/ghpvc/?username=bambovijs&style=flat-square)
 
