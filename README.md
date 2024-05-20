@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I am a passionate software developer dedicated to creating innovative and practical digital solutions. With a strong foundation in Java, Spring, Git, building REST APIs, HTML, CSS, React, and MySQL. My journey into the IT field began in middle school when I started building simple websites with HTML, CSS, and JavaScript. This early interest blossomed into a deep passion, leading me to pursue a Bachelor's degree in Natural Sciences in Computer Science (incomplete) and further honing my skills in college.
+I am a passionate software developer dedicated to creating innovative and practical digital solutions. With a strong foundation in Java, Spring, Git, building REST APIs, HTML, CSS, React, and MySQL. My journey into the IT field began in middle school when I started building simple websites with HTML, CSS, and JavaScript. This early interest blossomed into a deep passion.
 
 - 🔭 I’m currently working on FlightPlanner project.
 - 💬 Ask me about Java, Spring boot.
